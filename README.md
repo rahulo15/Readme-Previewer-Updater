@@ -49,5 +49,5 @@ To run this Markdown Previewer application locally, follow these steps:
 5. Open your web browser and go to http://localhost:3000.
 
 Configuration
-To use the README updating feature, you'll need to provide a personal access token with repo scope in the config.js file. This token will be used to authenticate API requests to GitHub. Remember to keep your access token secure.
+To use the README updating feature, you'll need to provide a personal access token & owner name with repo scope in the .env file. This token will be used to authenticate API requests to GitHub. Remember to keep your access token secure.
 
